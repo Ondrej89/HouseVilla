@@ -1,0 +1,79 @@
+{
+	"RenderSettings":
+	{
+		"aTLX_S_Frames": 1,
+		"aTLX_S_FrameRate": 30,
+		"aTLX_FO_OutputPath":
+		{
+			"path": "E:/Games/Unreal Projects/TriplexHouseVilla/Renders/"
+		},
+		"aTLX_FO_RenderTitle": "",
+		"aTLX_FO_Naming":
+		{
+			"bRenderTitle": true,
+			"bDate": true,
+			"bTime": true,
+			"bRenderPass": true,
+			"bFrameNumber": true,
+			"bBatchModel": true
+		},
+		"aTLX_FO_Resolution": "R4K",
+		"aTLX_FO_CustomResolution":
+		{
+			"width": 3840,
+			"height": 2160,
+			"lockRatio": true,
+			"ratio": 1.7777777910232544
+		},
+		"aTLX_R_Quality": "High",
+		"aTLX_R_CustomQuality":
+		{
+			"spatialSamples": 128,
+			"temporalSamples": 1,
+			"samplesPerPixel": 1,
+			"globalIlluminationBounces": 2,
+			"reflectionBounces": 3
+		},
+		"aTLX_R_BaseRenderer": true,
+		"aTLX_R_PathTracer": false,
+		"aTLX_FF_FormatPNG": false,
+		"aTLX_FF_FormatJPG": false,
+		"aTLX_FF_FormatEXR": true,
+		"aTLX_FF_FormatMOV": false,
+		"aTLX_OO_Denoiser": true,
+		"aTLX_OO_MotionBlur": false,
+		"aTLX_OO_WarmUpCount":
+		{
+			"warmUpEngine": 0,
+			"warmUpRender": 0
+		},
+		"aTLX_OO_System":
+		{
+			"exportLog": true,
+			"openFolder": false,
+			"fixBlackLine": true
+		},
+		"aTLX_RP_TransparentBackground": true,
+		"aTLX_RP_ShadowPass": true,
+		"aTLX_RP_BackdropLayer": false,
+		"aTLX_RP_Cryptomatte": "Actor",
+		"aTLX_RP_AOVs":
+		{
+			"rP_BaseColor": false,
+			"rP_LightingOnly": false,
+			"rP_DetailLighting": false,
+			"rP_Metallic": false,
+			"rP_Specular": false,
+			"rP_Roughness": false,
+			"rP_ZDepth": false,
+			"rP_WorldNormal": false,
+			"rP_AmbientOcclusion": false
+		},
+		"aTLX_C_CustomRenderSettings": "None",
+		"aTLX_C_CustomLevelSequence": "None",
+		"aTLX_C_CustomCommandVariables":
+		{
+		},
+		"aTLX_SettingsVersion": 1
+	}
+}
